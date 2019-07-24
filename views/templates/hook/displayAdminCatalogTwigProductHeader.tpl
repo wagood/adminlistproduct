@@ -1,0 +1,1 @@
+<th>{l s='Производитель' mod='adminlistproduct'}</th>
